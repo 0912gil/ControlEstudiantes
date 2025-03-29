@@ -1,0 +1,8 @@
+
+    <!-- res/layout/toolbar.xml -->
+    <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="?android:attr/colorPrimary"
+        android:elevation="4dp"
+        xmlns:android="http://schemas.android.com/apk/res/android" />
